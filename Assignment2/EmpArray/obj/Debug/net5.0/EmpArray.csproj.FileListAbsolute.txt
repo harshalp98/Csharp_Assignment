@@ -1,0 +1,15 @@
+D:\CsharpWorkspace\Assignment2\EmpArray\obj\Debug\net5.0\EmpArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpWorkspace\Assignment2\EmpArray\obj\Debug\net5.0\EmpArray.AssemblyInfoInputs.cache
+D:\CsharpWorkspace\Assignment2\EmpArray\obj\Debug\net5.0\EmpArray.AssemblyInfo.cs
+D:\CsharpWorkspace\Assignment2\EmpArray\obj\Debug\net5.0\EmpArray.csproj.CoreCompileInputs.cache
+D:\CsharpWorkspace\Assignment2\EmpArray\bin\Debug\net5.0\EmpArray.exe
+D:\CsharpWorkspace\Assignment2\EmpArray\bin\Debug\net5.0\EmpArray.deps.json
+D:\CsharpWorkspace\Assignment2\EmpArray\bin\Debug\net5.0\EmpArray.runtimeconfig.json
+D:\CsharpWorkspace\Assignment2\EmpArray\bin\Debug\net5.0\EmpArray.runtimeconfig.dev.json
+D:\CsharpWorkspace\Assignment2\EmpArray\bin\Debug\net5.0\EmpArray.dll
+D:\CsharpWorkspace\Assignment2\EmpArray\bin\Debug\net5.0\ref\EmpArray.dll
+D:\CsharpWorkspace\Assignment2\EmpArray\bin\Debug\net5.0\EmpArray.pdb
+D:\CsharpWorkspace\Assignment2\EmpArray\obj\Debug\net5.0\EmpArray.dll
+D:\CsharpWorkspace\Assignment2\EmpArray\obj\Debug\net5.0\ref\EmpArray.dll
+D:\CsharpWorkspace\Assignment2\EmpArray\obj\Debug\net5.0\EmpArray.pdb
+D:\CsharpWorkspace\Assignment2\EmpArray\obj\Debug\net5.0\EmpArray.genruntimeconfig.cache

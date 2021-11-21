@@ -1,0 +1,16 @@
+D:\CsharpWorkspace\TraningPractice\CalculateSalary\bin\Debug\net5.0\CalculateSalary.exe
+D:\CsharpWorkspace\TraningPractice\CalculateSalary\bin\Debug\net5.0\CalculateSalary.deps.json
+D:\CsharpWorkspace\TraningPractice\CalculateSalary\bin\Debug\net5.0\CalculateSalary.runtimeconfig.json
+D:\CsharpWorkspace\TraningPractice\CalculateSalary\bin\Debug\net5.0\CalculateSalary.runtimeconfig.dev.json
+D:\CsharpWorkspace\TraningPractice\CalculateSalary\bin\Debug\net5.0\CalculateSalary.dll
+D:\CsharpWorkspace\TraningPractice\CalculateSalary\bin\Debug\net5.0\ref\CalculateSalary.dll
+D:\CsharpWorkspace\TraningPractice\CalculateSalary\bin\Debug\net5.0\CalculateSalary.pdb
+D:\CsharpWorkspace\TraningPractice\CalculateSalary\obj\Debug\net5.0\CalculateSalary.csproj.AssemblyReference.cache
+D:\CsharpWorkspace\TraningPractice\CalculateSalary\obj\Debug\net5.0\CalculateSalary.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpWorkspace\TraningPractice\CalculateSalary\obj\Debug\net5.0\CalculateSalary.AssemblyInfoInputs.cache
+D:\CsharpWorkspace\TraningPractice\CalculateSalary\obj\Debug\net5.0\CalculateSalary.AssemblyInfo.cs
+D:\CsharpWorkspace\TraningPractice\CalculateSalary\obj\Debug\net5.0\CalculateSalary.csproj.CoreCompileInputs.cache
+D:\CsharpWorkspace\TraningPractice\CalculateSalary\obj\Debug\net5.0\CalculateSalary.dll
+D:\CsharpWorkspace\TraningPractice\CalculateSalary\obj\Debug\net5.0\ref\CalculateSalary.dll
+D:\CsharpWorkspace\TraningPractice\CalculateSalary\obj\Debug\net5.0\CalculateSalary.pdb
+D:\CsharpWorkspace\TraningPractice\CalculateSalary\obj\Debug\net5.0\CalculateSalary.genruntimeconfig.cache

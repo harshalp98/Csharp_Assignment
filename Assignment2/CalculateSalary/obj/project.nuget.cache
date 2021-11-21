@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4A4s8P6uQzhNxOZfc8Uxny3uf7bxt2fMYNI5gZz8NTqqEVGpAlAE3nLH4qQkfAS9aYFgH8s71oqGebVZUUqKrw==",
+  "success": true,
+  "projectFilePath": "D:\\CsharpWorkspace\\TraningPractice\\CalculateSalary\\CalculateSalary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harshal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
