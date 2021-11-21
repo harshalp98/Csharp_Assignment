@@ -1,2 +1,0 @@
-# Harshal Pawar
-## c# Assignment
