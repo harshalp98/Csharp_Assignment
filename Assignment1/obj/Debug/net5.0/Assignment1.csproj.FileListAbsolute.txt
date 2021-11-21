@@ -1,0 +1,16 @@
+D:\CsharpWorkspace\Assignment1\bin\Debug\net5.0\Assignment1.exe
+D:\CsharpWorkspace\Assignment1\bin\Debug\net5.0\Assignment1.deps.json
+D:\CsharpWorkspace\Assignment1\bin\Debug\net5.0\Assignment1.runtimeconfig.json
+D:\CsharpWorkspace\Assignment1\bin\Debug\net5.0\Assignment1.runtimeconfig.dev.json
+D:\CsharpWorkspace\Assignment1\bin\Debug\net5.0\Assignment1.dll
+D:\CsharpWorkspace\Assignment1\bin\Debug\net5.0\ref\Assignment1.dll
+D:\CsharpWorkspace\Assignment1\bin\Debug\net5.0\Assignment1.pdb
+D:\CsharpWorkspace\Assignment1\obj\Debug\net5.0\Assignment1.csproj.AssemblyReference.cache
+D:\CsharpWorkspace\Assignment1\obj\Debug\net5.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpWorkspace\Assignment1\obj\Debug\net5.0\Assignment1.AssemblyInfoInputs.cache
+D:\CsharpWorkspace\Assignment1\obj\Debug\net5.0\Assignment1.AssemblyInfo.cs
+D:\CsharpWorkspace\Assignment1\obj\Debug\net5.0\Assignment1.csproj.CoreCompileInputs.cache
+D:\CsharpWorkspace\Assignment1\obj\Debug\net5.0\Assignment1.dll
+D:\CsharpWorkspace\Assignment1\obj\Debug\net5.0\ref\Assignment1.dll
+D:\CsharpWorkspace\Assignment1\obj\Debug\net5.0\Assignment1.pdb
+D:\CsharpWorkspace\Assignment1\obj\Debug\net5.0\Assignment1.genruntimeconfig.cache
