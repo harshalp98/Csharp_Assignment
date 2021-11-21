@@ -1,0 +1,15 @@
+D:\CsharpWorkspace\Assignment2\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.exe
+D:\CsharpWorkspace\Assignment2\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.deps.json
+D:\CsharpWorkspace\Assignment2\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.runtimeconfig.json
+D:\CsharpWorkspace\Assignment2\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.runtimeconfig.dev.json
+D:\CsharpWorkspace\Assignment2\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.dll
+D:\CsharpWorkspace\Assignment2\OperatorOverloading\bin\Debug\net5.0\ref\OperatorOverloading.dll
+D:\CsharpWorkspace\Assignment2\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.pdb
+D:\CsharpWorkspace\Assignment2\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpWorkspace\Assignment2\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.AssemblyInfoInputs.cache
+D:\CsharpWorkspace\Assignment2\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.AssemblyInfo.cs
+D:\CsharpWorkspace\Assignment2\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+D:\CsharpWorkspace\Assignment2\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.dll
+D:\CsharpWorkspace\Assignment2\OperatorOverloading\obj\Debug\net5.0\ref\OperatorOverloading.dll
+D:\CsharpWorkspace\Assignment2\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.pdb
+D:\CsharpWorkspace\Assignment2\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.genruntimeconfig.cache

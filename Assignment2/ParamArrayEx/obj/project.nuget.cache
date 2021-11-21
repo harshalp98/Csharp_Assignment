@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jIvbjS19lYW4wbPnniyzRF+Ak0OtmDn/P93j0K7QNWrZ3kh32wRCMFoTa6iz8/MIG2MB5hbPQayZQUygXIxLAQ==",
+  "success": true,
+  "projectFilePath": "D:\\CsharpWorkspace\\Assignment2\\ParamArrayEx\\ParamArrayEx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harshal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

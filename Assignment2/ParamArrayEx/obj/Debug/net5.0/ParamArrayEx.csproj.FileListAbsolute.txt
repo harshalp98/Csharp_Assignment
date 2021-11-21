@@ -1,0 +1,16 @@
+D:\CsharpWorkspace\TraningPractice\ParamArrayEx\bin\Debug\net5.0\ParamArrayEx.exe
+D:\CsharpWorkspace\TraningPractice\ParamArrayEx\bin\Debug\net5.0\ParamArrayEx.deps.json
+D:\CsharpWorkspace\TraningPractice\ParamArrayEx\bin\Debug\net5.0\ParamArrayEx.runtimeconfig.json
+D:\CsharpWorkspace\TraningPractice\ParamArrayEx\bin\Debug\net5.0\ParamArrayEx.runtimeconfig.dev.json
+D:\CsharpWorkspace\TraningPractice\ParamArrayEx\bin\Debug\net5.0\ParamArrayEx.dll
+D:\CsharpWorkspace\TraningPractice\ParamArrayEx\bin\Debug\net5.0\ref\ParamArrayEx.dll
+D:\CsharpWorkspace\TraningPractice\ParamArrayEx\bin\Debug\net5.0\ParamArrayEx.pdb
+D:\CsharpWorkspace\TraningPractice\ParamArrayEx\obj\Debug\net5.0\ParamArrayEx.csproj.AssemblyReference.cache
+D:\CsharpWorkspace\TraningPractice\ParamArrayEx\obj\Debug\net5.0\ParamArrayEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpWorkspace\TraningPractice\ParamArrayEx\obj\Debug\net5.0\ParamArrayEx.AssemblyInfoInputs.cache
+D:\CsharpWorkspace\TraningPractice\ParamArrayEx\obj\Debug\net5.0\ParamArrayEx.AssemblyInfo.cs
+D:\CsharpWorkspace\TraningPractice\ParamArrayEx\obj\Debug\net5.0\ParamArrayEx.csproj.CoreCompileInputs.cache
+D:\CsharpWorkspace\TraningPractice\ParamArrayEx\obj\Debug\net5.0\ParamArrayEx.dll
+D:\CsharpWorkspace\TraningPractice\ParamArrayEx\obj\Debug\net5.0\ref\ParamArrayEx.dll
+D:\CsharpWorkspace\TraningPractice\ParamArrayEx\obj\Debug\net5.0\ParamArrayEx.pdb
+D:\CsharpWorkspace\TraningPractice\ParamArrayEx\obj\Debug\net5.0\ParamArrayEx.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\CsharpWorkspace\TraningPractice\ENum_ex\obj\Debug\net5.0\ENum_ex.csproj.AssemblyReference.cache
+D:\CsharpWorkspace\TraningPractice\ENum_ex\obj\Debug\net5.0\ENum_ex.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpWorkspace\TraningPractice\ENum_ex\obj\Debug\net5.0\ENum_ex.AssemblyInfoInputs.cache
+D:\CsharpWorkspace\TraningPractice\ENum_ex\obj\Debug\net5.0\ENum_ex.AssemblyInfo.cs
+D:\CsharpWorkspace\TraningPractice\ENum_ex\obj\Debug\net5.0\ENum_ex.csproj.CoreCompileInputs.cache
+D:\CsharpWorkspace\TraningPractice\ENum_ex\bin\Debug\net5.0\ENum_ex.exe
+D:\CsharpWorkspace\TraningPractice\ENum_ex\bin\Debug\net5.0\ENum_ex.deps.json
+D:\CsharpWorkspace\TraningPractice\ENum_ex\bin\Debug\net5.0\ENum_ex.runtimeconfig.json
+D:\CsharpWorkspace\TraningPractice\ENum_ex\bin\Debug\net5.0\ENum_ex.runtimeconfig.dev.json
+D:\CsharpWorkspace\TraningPractice\ENum_ex\bin\Debug\net5.0\ENum_ex.dll
+D:\CsharpWorkspace\TraningPractice\ENum_ex\bin\Debug\net5.0\ref\ENum_ex.dll
+D:\CsharpWorkspace\TraningPractice\ENum_ex\bin\Debug\net5.0\ENum_ex.pdb
+D:\CsharpWorkspace\TraningPractice\ENum_ex\obj\Debug\net5.0\ENum_ex.dll
+D:\CsharpWorkspace\TraningPractice\ENum_ex\obj\Debug\net5.0\ref\ENum_ex.dll
+D:\CsharpWorkspace\TraningPractice\ENum_ex\obj\Debug\net5.0\ENum_ex.pdb
+D:\CsharpWorkspace\TraningPractice\ENum_ex\obj\Debug\net5.0\ENum_ex.genruntimeconfig.cache
