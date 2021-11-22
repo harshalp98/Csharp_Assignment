@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qKoj07rpxWICEw7MYtNEeO/YXXsLERYUuNZrqC16W5VBUjZ0t4Fw50wPILI/1r04PTt8K7ubN3wnqFsPQCesXQ==",
+  "success": true,
+  "projectFilePath": "D:\\CsharpWorkspace\\Assignment3\\ExceptionEx2\\ExceptionEx2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harshal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\CsharpWorkspace\Assignment3\ExceptionEx1\bin\Debug\net5.0\ExceptionEx1.exe
+D:\CsharpWorkspace\Assignment3\ExceptionEx1\bin\Debug\net5.0\ExceptionEx1.deps.json
+D:\CsharpWorkspace\Assignment3\ExceptionEx1\bin\Debug\net5.0\ExceptionEx1.runtimeconfig.json
+D:\CsharpWorkspace\Assignment3\ExceptionEx1\bin\Debug\net5.0\ExceptionEx1.runtimeconfig.dev.json
+D:\CsharpWorkspace\Assignment3\ExceptionEx1\bin\Debug\net5.0\ExceptionEx1.dll
+D:\CsharpWorkspace\Assignment3\ExceptionEx1\bin\Debug\net5.0\ref\ExceptionEx1.dll
+D:\CsharpWorkspace\Assignment3\ExceptionEx1\bin\Debug\net5.0\ExceptionEx1.pdb
+D:\CsharpWorkspace\Assignment3\ExceptionEx1\obj\Debug\net5.0\ExceptionEx1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpWorkspace\Assignment3\ExceptionEx1\obj\Debug\net5.0\ExceptionEx1.AssemblyInfoInputs.cache
+D:\CsharpWorkspace\Assignment3\ExceptionEx1\obj\Debug\net5.0\ExceptionEx1.AssemblyInfo.cs
+D:\CsharpWorkspace\Assignment3\ExceptionEx1\obj\Debug\net5.0\ExceptionEx1.csproj.CoreCompileInputs.cache
+D:\CsharpWorkspace\Assignment3\ExceptionEx1\obj\Debug\net5.0\ExceptionEx1.dll
+D:\CsharpWorkspace\Assignment3\ExceptionEx1\obj\Debug\net5.0\ref\ExceptionEx1.dll
+D:\CsharpWorkspace\Assignment3\ExceptionEx1\obj\Debug\net5.0\ExceptionEx1.pdb
+D:\CsharpWorkspace\Assignment3\ExceptionEx1\obj\Debug\net5.0\ExceptionEx1.genruntimeconfig.cache
+D:\CsharpWorkspace\Assignment3\ExceptionEx1\obj\Debug\net5.0\ExceptionEx1.csproj.AssemblyReference.cache
