@@ -1,0 +1,16 @@
+D:\CsharpWorkspace\Assignment3\InterfaceEx\bin\Debug\net5.0\InterfaceEx.exe
+D:\CsharpWorkspace\Assignment3\InterfaceEx\bin\Debug\net5.0\InterfaceEx.deps.json
+D:\CsharpWorkspace\Assignment3\InterfaceEx\bin\Debug\net5.0\InterfaceEx.runtimeconfig.json
+D:\CsharpWorkspace\Assignment3\InterfaceEx\bin\Debug\net5.0\InterfaceEx.runtimeconfig.dev.json
+D:\CsharpWorkspace\Assignment3\InterfaceEx\bin\Debug\net5.0\InterfaceEx.dll
+D:\CsharpWorkspace\Assignment3\InterfaceEx\bin\Debug\net5.0\ref\InterfaceEx.dll
+D:\CsharpWorkspace\Assignment3\InterfaceEx\bin\Debug\net5.0\InterfaceEx.pdb
+D:\CsharpWorkspace\Assignment3\InterfaceEx\obj\Debug\net5.0\InterfaceEx.csproj.AssemblyReference.cache
+D:\CsharpWorkspace\Assignment3\InterfaceEx\obj\Debug\net5.0\InterfaceEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpWorkspace\Assignment3\InterfaceEx\obj\Debug\net5.0\InterfaceEx.AssemblyInfoInputs.cache
+D:\CsharpWorkspace\Assignment3\InterfaceEx\obj\Debug\net5.0\InterfaceEx.AssemblyInfo.cs
+D:\CsharpWorkspace\Assignment3\InterfaceEx\obj\Debug\net5.0\InterfaceEx.csproj.CoreCompileInputs.cache
+D:\CsharpWorkspace\Assignment3\InterfaceEx\obj\Debug\net5.0\InterfaceEx.dll
+D:\CsharpWorkspace\Assignment3\InterfaceEx\obj\Debug\net5.0\ref\InterfaceEx.dll
+D:\CsharpWorkspace\Assignment3\InterfaceEx\obj\Debug\net5.0\InterfaceEx.pdb
+D:\CsharpWorkspace\Assignment3\InterfaceEx\obj\Debug\net5.0\InterfaceEx.genruntimeconfig.cache
