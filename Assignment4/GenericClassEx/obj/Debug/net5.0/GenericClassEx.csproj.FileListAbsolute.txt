@@ -1,0 +1,16 @@
+D:\CsharpWorkspace\TraningPractice\GenericClassEx\obj\Debug\net5.0\GenericClassEx.csproj.AssemblyReference.cache
+D:\CsharpWorkspace\TraningPractice\GenericClassEx\obj\Debug\net5.0\GenericClassEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpWorkspace\TraningPractice\GenericClassEx\obj\Debug\net5.0\GenericClassEx.AssemblyInfoInputs.cache
+D:\CsharpWorkspace\TraningPractice\GenericClassEx\obj\Debug\net5.0\GenericClassEx.AssemblyInfo.cs
+D:\CsharpWorkspace\TraningPractice\GenericClassEx\obj\Debug\net5.0\GenericClassEx.csproj.CoreCompileInputs.cache
+D:\CsharpWorkspace\TraningPractice\GenericClassEx\bin\Debug\net5.0\GenericClassEx.exe
+D:\CsharpWorkspace\TraningPractice\GenericClassEx\bin\Debug\net5.0\GenericClassEx.deps.json
+D:\CsharpWorkspace\TraningPractice\GenericClassEx\bin\Debug\net5.0\GenericClassEx.runtimeconfig.json
+D:\CsharpWorkspace\TraningPractice\GenericClassEx\bin\Debug\net5.0\GenericClassEx.runtimeconfig.dev.json
+D:\CsharpWorkspace\TraningPractice\GenericClassEx\bin\Debug\net5.0\GenericClassEx.dll
+D:\CsharpWorkspace\TraningPractice\GenericClassEx\bin\Debug\net5.0\ref\GenericClassEx.dll
+D:\CsharpWorkspace\TraningPractice\GenericClassEx\bin\Debug\net5.0\GenericClassEx.pdb
+D:\CsharpWorkspace\TraningPractice\GenericClassEx\obj\Debug\net5.0\GenericClassEx.dll
+D:\CsharpWorkspace\TraningPractice\GenericClassEx\obj\Debug\net5.0\ref\GenericClassEx.dll
+D:\CsharpWorkspace\TraningPractice\GenericClassEx\obj\Debug\net5.0\GenericClassEx.pdb
+D:\CsharpWorkspace\TraningPractice\GenericClassEx\obj\Debug\net5.0\GenericClassEx.genruntimeconfig.cache

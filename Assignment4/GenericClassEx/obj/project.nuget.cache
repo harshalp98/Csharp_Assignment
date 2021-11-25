@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3wOzYtijNOT2utKoNw/dpfUZF+JTo4P28m/RRJ+yMLS8zRgqxhahFSZl2yndWgDAz7uh8xiUJquTKjxSBOlEqQ==",
+  "success": true,
+  "projectFilePath": "D:\\CsharpWorkspace\\TraningPractice\\GenericClassEx\\GenericClassEx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harshal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
