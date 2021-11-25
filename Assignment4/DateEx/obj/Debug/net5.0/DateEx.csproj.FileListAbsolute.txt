@@ -1,0 +1,16 @@
+D:\CsharpWorkspace\Assignment4\DateEx\bin\Debug\net5.0\DateEx.exe
+D:\CsharpWorkspace\Assignment4\DateEx\bin\Debug\net5.0\DateEx.deps.json
+D:\CsharpWorkspace\Assignment4\DateEx\bin\Debug\net5.0\DateEx.runtimeconfig.json
+D:\CsharpWorkspace\Assignment4\DateEx\bin\Debug\net5.0\DateEx.runtimeconfig.dev.json
+D:\CsharpWorkspace\Assignment4\DateEx\bin\Debug\net5.0\DateEx.dll
+D:\CsharpWorkspace\Assignment4\DateEx\bin\Debug\net5.0\ref\DateEx.dll
+D:\CsharpWorkspace\Assignment4\DateEx\bin\Debug\net5.0\DateEx.pdb
+D:\CsharpWorkspace\Assignment4\DateEx\obj\Debug\net5.0\DateEx.csproj.AssemblyReference.cache
+D:\CsharpWorkspace\Assignment4\DateEx\obj\Debug\net5.0\DateEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpWorkspace\Assignment4\DateEx\obj\Debug\net5.0\DateEx.AssemblyInfoInputs.cache
+D:\CsharpWorkspace\Assignment4\DateEx\obj\Debug\net5.0\DateEx.AssemblyInfo.cs
+D:\CsharpWorkspace\Assignment4\DateEx\obj\Debug\net5.0\DateEx.csproj.CoreCompileInputs.cache
+D:\CsharpWorkspace\Assignment4\DateEx\obj\Debug\net5.0\DateEx.dll
+D:\CsharpWorkspace\Assignment4\DateEx\obj\Debug\net5.0\ref\DateEx.dll
+D:\CsharpWorkspace\Assignment4\DateEx\obj\Debug\net5.0\DateEx.pdb
+D:\CsharpWorkspace\Assignment4\DateEx\obj\Debug\net5.0\DateEx.genruntimeconfig.cache

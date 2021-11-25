@@ -1,0 +1,16 @@
+D:\CsharpWorkspace\Assignment4\CollectionEx1\bin\Debug\net5.0\CollectionEx1.exe
+D:\CsharpWorkspace\Assignment4\CollectionEx1\bin\Debug\net5.0\CollectionEx1.deps.json
+D:\CsharpWorkspace\Assignment4\CollectionEx1\bin\Debug\net5.0\CollectionEx1.runtimeconfig.json
+D:\CsharpWorkspace\Assignment4\CollectionEx1\bin\Debug\net5.0\CollectionEx1.runtimeconfig.dev.json
+D:\CsharpWorkspace\Assignment4\CollectionEx1\bin\Debug\net5.0\CollectionEx1.dll
+D:\CsharpWorkspace\Assignment4\CollectionEx1\bin\Debug\net5.0\ref\CollectionEx1.dll
+D:\CsharpWorkspace\Assignment4\CollectionEx1\bin\Debug\net5.0\CollectionEx1.pdb
+D:\CsharpWorkspace\Assignment4\CollectionEx1\obj\Debug\net5.0\CollectionEx1.csproj.AssemblyReference.cache
+D:\CsharpWorkspace\Assignment4\CollectionEx1\obj\Debug\net5.0\CollectionEx1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpWorkspace\Assignment4\CollectionEx1\obj\Debug\net5.0\CollectionEx1.AssemblyInfoInputs.cache
+D:\CsharpWorkspace\Assignment4\CollectionEx1\obj\Debug\net5.0\CollectionEx1.AssemblyInfo.cs
+D:\CsharpWorkspace\Assignment4\CollectionEx1\obj\Debug\net5.0\CollectionEx1.csproj.CoreCompileInputs.cache
+D:\CsharpWorkspace\Assignment4\CollectionEx1\obj\Debug\net5.0\CollectionEx1.dll
+D:\CsharpWorkspace\Assignment4\CollectionEx1\obj\Debug\net5.0\ref\CollectionEx1.dll
+D:\CsharpWorkspace\Assignment4\CollectionEx1\obj\Debug\net5.0\CollectionEx1.pdb
+D:\CsharpWorkspace\Assignment4\CollectionEx1\obj\Debug\net5.0\CollectionEx1.genruntimeconfig.cache

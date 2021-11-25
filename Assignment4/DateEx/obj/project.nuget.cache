@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tu7NKP47zUOrkvqIYlsVgu0DfTDMTVd1CSeXvXcZ7+U5RMluiEK+XkfHIwohWYjcgQoNsezgX6kWYdy8pUsSAg==",
+  "success": true,
+  "projectFilePath": "D:\\CsharpWorkspace\\Assignment4\\DateEx\\DateEx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harshal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
