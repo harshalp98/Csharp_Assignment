@@ -1,0 +1,14 @@
+D:\CsharpWorkspace\TraningPractice\XMLSerializationEx\bin\Debug\netcoreapp3.1\XMLSerializationEx.exe
+D:\CsharpWorkspace\TraningPractice\XMLSerializationEx\bin\Debug\netcoreapp3.1\XMLSerializationEx.deps.json
+D:\CsharpWorkspace\TraningPractice\XMLSerializationEx\bin\Debug\netcoreapp3.1\XMLSerializationEx.runtimeconfig.json
+D:\CsharpWorkspace\TraningPractice\XMLSerializationEx\bin\Debug\netcoreapp3.1\XMLSerializationEx.runtimeconfig.dev.json
+D:\CsharpWorkspace\TraningPractice\XMLSerializationEx\bin\Debug\netcoreapp3.1\XMLSerializationEx.dll
+D:\CsharpWorkspace\TraningPractice\XMLSerializationEx\bin\Debug\netcoreapp3.1\XMLSerializationEx.pdb
+D:\CsharpWorkspace\TraningPractice\XMLSerializationEx\obj\Debug\netcoreapp3.1\XMLSerializationEx.csproj.AssemblyReference.cache
+D:\CsharpWorkspace\TraningPractice\XMLSerializationEx\obj\Debug\netcoreapp3.1\XMLSerializationEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpWorkspace\TraningPractice\XMLSerializationEx\obj\Debug\netcoreapp3.1\XMLSerializationEx.AssemblyInfoInputs.cache
+D:\CsharpWorkspace\TraningPractice\XMLSerializationEx\obj\Debug\netcoreapp3.1\XMLSerializationEx.AssemblyInfo.cs
+D:\CsharpWorkspace\TraningPractice\XMLSerializationEx\obj\Debug\netcoreapp3.1\XMLSerializationEx.csproj.CoreCompileInputs.cache
+D:\CsharpWorkspace\TraningPractice\XMLSerializationEx\obj\Debug\netcoreapp3.1\XMLSerializationEx.dll
+D:\CsharpWorkspace\TraningPractice\XMLSerializationEx\obj\Debug\netcoreapp3.1\XMLSerializationEx.pdb
+D:\CsharpWorkspace\TraningPractice\XMLSerializationEx\obj\Debug\netcoreapp3.1\XMLSerializationEx.genruntimeconfig.cache
