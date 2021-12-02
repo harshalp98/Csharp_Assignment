@@ -25,9 +25,9 @@ namespace Assignment1
             salary1 = Convert.ToInt32(Console.ReadLine()); 
         }
 
-        /*public static void Main(string[] args)
+        public static void Main(string[] args)
         { 
-            Emp [] e=new Emp[1];
+            Emp [] e=new Emp[10];
             for (int i=0;i<e.Length;i++)
             { 
                 e[i] = new Emp();
@@ -37,7 +37,7 @@ namespace Assignment1
             { 
                 Console.WriteLine("EmpNo:"+k.empNo1+" EmpName:"+k.empName1+" Desg:"+k.designation1+" Salary:Rs."+k.salary1);
             }
-        }*/
+        }
 
     }
 }
