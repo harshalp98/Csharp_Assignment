@@ -1,0 +1,14 @@
+D:\CsharpWorkspace\TraningPractice\BinaryReaderWriter\bin\Debug\netcoreapp3.1\BinaryReaderWriter.exe
+D:\CsharpWorkspace\TraningPractice\BinaryReaderWriter\bin\Debug\netcoreapp3.1\BinaryReaderWriter.deps.json
+D:\CsharpWorkspace\TraningPractice\BinaryReaderWriter\bin\Debug\netcoreapp3.1\BinaryReaderWriter.runtimeconfig.json
+D:\CsharpWorkspace\TraningPractice\BinaryReaderWriter\bin\Debug\netcoreapp3.1\BinaryReaderWriter.runtimeconfig.dev.json
+D:\CsharpWorkspace\TraningPractice\BinaryReaderWriter\bin\Debug\netcoreapp3.1\BinaryReaderWriter.dll
+D:\CsharpWorkspace\TraningPractice\BinaryReaderWriter\bin\Debug\netcoreapp3.1\BinaryReaderWriter.pdb
+D:\CsharpWorkspace\TraningPractice\BinaryReaderWriter\obj\Debug\netcoreapp3.1\BinaryReaderWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpWorkspace\TraningPractice\BinaryReaderWriter\obj\Debug\netcoreapp3.1\BinaryReaderWriter.AssemblyInfoInputs.cache
+D:\CsharpWorkspace\TraningPractice\BinaryReaderWriter\obj\Debug\netcoreapp3.1\BinaryReaderWriter.AssemblyInfo.cs
+D:\CsharpWorkspace\TraningPractice\BinaryReaderWriter\obj\Debug\netcoreapp3.1\BinaryReaderWriter.csproj.CoreCompileInputs.cache
+D:\CsharpWorkspace\TraningPractice\BinaryReaderWriter\obj\Debug\netcoreapp3.1\BinaryReaderWriter.dll
+D:\CsharpWorkspace\TraningPractice\BinaryReaderWriter\obj\Debug\netcoreapp3.1\BinaryReaderWriter.pdb
+D:\CsharpWorkspace\TraningPractice\BinaryReaderWriter\obj\Debug\netcoreapp3.1\BinaryReaderWriter.genruntimeconfig.cache
+D:\CsharpWorkspace\TraningPractice\BinaryReaderWriter\obj\Debug\netcoreapp3.1\BinaryReaderWriter.csproj.AssemblyReference.cache

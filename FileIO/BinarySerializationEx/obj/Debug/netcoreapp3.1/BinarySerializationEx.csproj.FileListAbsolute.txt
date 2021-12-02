@@ -1,0 +1,14 @@
+D:\CsharpWorkspace\TraningPractice\BinarySerializationEx\bin\Debug\netcoreapp3.1\BinarySerializationEx.exe
+D:\CsharpWorkspace\TraningPractice\BinarySerializationEx\bin\Debug\netcoreapp3.1\BinarySerializationEx.deps.json
+D:\CsharpWorkspace\TraningPractice\BinarySerializationEx\bin\Debug\netcoreapp3.1\BinarySerializationEx.runtimeconfig.json
+D:\CsharpWorkspace\TraningPractice\BinarySerializationEx\bin\Debug\netcoreapp3.1\BinarySerializationEx.runtimeconfig.dev.json
+D:\CsharpWorkspace\TraningPractice\BinarySerializationEx\bin\Debug\netcoreapp3.1\BinarySerializationEx.dll
+D:\CsharpWorkspace\TraningPractice\BinarySerializationEx\bin\Debug\netcoreapp3.1\BinarySerializationEx.pdb
+D:\CsharpWorkspace\TraningPractice\BinarySerializationEx\obj\Debug\netcoreapp3.1\BinarySerializationEx.csproj.AssemblyReference.cache
+D:\CsharpWorkspace\TraningPractice\BinarySerializationEx\obj\Debug\netcoreapp3.1\BinarySerializationEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpWorkspace\TraningPractice\BinarySerializationEx\obj\Debug\netcoreapp3.1\BinarySerializationEx.AssemblyInfoInputs.cache
+D:\CsharpWorkspace\TraningPractice\BinarySerializationEx\obj\Debug\netcoreapp3.1\BinarySerializationEx.AssemblyInfo.cs
+D:\CsharpWorkspace\TraningPractice\BinarySerializationEx\obj\Debug\netcoreapp3.1\BinarySerializationEx.csproj.CoreCompileInputs.cache
+D:\CsharpWorkspace\TraningPractice\BinarySerializationEx\obj\Debug\netcoreapp3.1\BinarySerializationEx.dll
+D:\CsharpWorkspace\TraningPractice\BinarySerializationEx\obj\Debug\netcoreapp3.1\BinarySerializationEx.pdb
+D:\CsharpWorkspace\TraningPractice\BinarySerializationEx\obj\Debug\netcoreapp3.1\BinarySerializationEx.genruntimeconfig.cache

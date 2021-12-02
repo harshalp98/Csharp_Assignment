@@ -1,0 +1,16 @@
+D:\CsharpWorkspace\TraningPractice\DriveInfoEx\bin\Debug\net5.0\DriveInfoEx.exe
+D:\CsharpWorkspace\TraningPractice\DriveInfoEx\bin\Debug\net5.0\DriveInfoEx.deps.json
+D:\CsharpWorkspace\TraningPractice\DriveInfoEx\bin\Debug\net5.0\DriveInfoEx.runtimeconfig.json
+D:\CsharpWorkspace\TraningPractice\DriveInfoEx\bin\Debug\net5.0\DriveInfoEx.runtimeconfig.dev.json
+D:\CsharpWorkspace\TraningPractice\DriveInfoEx\bin\Debug\net5.0\DriveInfoEx.dll
+D:\CsharpWorkspace\TraningPractice\DriveInfoEx\bin\Debug\net5.0\ref\DriveInfoEx.dll
+D:\CsharpWorkspace\TraningPractice\DriveInfoEx\bin\Debug\net5.0\DriveInfoEx.pdb
+D:\CsharpWorkspace\TraningPractice\DriveInfoEx\obj\Debug\net5.0\DriveInfoEx.csproj.AssemblyReference.cache
+D:\CsharpWorkspace\TraningPractice\DriveInfoEx\obj\Debug\net5.0\DriveInfoEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpWorkspace\TraningPractice\DriveInfoEx\obj\Debug\net5.0\DriveInfoEx.AssemblyInfoInputs.cache
+D:\CsharpWorkspace\TraningPractice\DriveInfoEx\obj\Debug\net5.0\DriveInfoEx.AssemblyInfo.cs
+D:\CsharpWorkspace\TraningPractice\DriveInfoEx\obj\Debug\net5.0\DriveInfoEx.csproj.CoreCompileInputs.cache
+D:\CsharpWorkspace\TraningPractice\DriveInfoEx\obj\Debug\net5.0\DriveInfoEx.dll
+D:\CsharpWorkspace\TraningPractice\DriveInfoEx\obj\Debug\net5.0\ref\DriveInfoEx.dll
+D:\CsharpWorkspace\TraningPractice\DriveInfoEx\obj\Debug\net5.0\DriveInfoEx.pdb
+D:\CsharpWorkspace\TraningPractice\DriveInfoEx\obj\Debug\net5.0\DriveInfoEx.genruntimeconfig.cache
