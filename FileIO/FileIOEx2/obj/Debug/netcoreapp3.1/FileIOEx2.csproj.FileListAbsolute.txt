@@ -1,0 +1,14 @@
+D:\CsharpWorkspace\TraningPractice\FileIOEx2\bin\Debug\netcoreapp3.1\FileIOEx2.exe
+D:\CsharpWorkspace\TraningPractice\FileIOEx2\bin\Debug\netcoreapp3.1\FileIOEx2.deps.json
+D:\CsharpWorkspace\TraningPractice\FileIOEx2\bin\Debug\netcoreapp3.1\FileIOEx2.runtimeconfig.json
+D:\CsharpWorkspace\TraningPractice\FileIOEx2\bin\Debug\netcoreapp3.1\FileIOEx2.runtimeconfig.dev.json
+D:\CsharpWorkspace\TraningPractice\FileIOEx2\bin\Debug\netcoreapp3.1\FileIOEx2.dll
+D:\CsharpWorkspace\TraningPractice\FileIOEx2\bin\Debug\netcoreapp3.1\FileIOEx2.pdb
+D:\CsharpWorkspace\TraningPractice\FileIOEx2\obj\Debug\netcoreapp3.1\FileIOEx2.csproj.AssemblyReference.cache
+D:\CsharpWorkspace\TraningPractice\FileIOEx2\obj\Debug\netcoreapp3.1\FileIOEx2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpWorkspace\TraningPractice\FileIOEx2\obj\Debug\netcoreapp3.1\FileIOEx2.AssemblyInfoInputs.cache
+D:\CsharpWorkspace\TraningPractice\FileIOEx2\obj\Debug\netcoreapp3.1\FileIOEx2.AssemblyInfo.cs
+D:\CsharpWorkspace\TraningPractice\FileIOEx2\obj\Debug\netcoreapp3.1\FileIOEx2.csproj.CoreCompileInputs.cache
+D:\CsharpWorkspace\TraningPractice\FileIOEx2\obj\Debug\netcoreapp3.1\FileIOEx2.dll
+D:\CsharpWorkspace\TraningPractice\FileIOEx2\obj\Debug\netcoreapp3.1\FileIOEx2.pdb
+D:\CsharpWorkspace\TraningPractice\FileIOEx2\obj\Debug\netcoreapp3.1\FileIOEx2.genruntimeconfig.cache

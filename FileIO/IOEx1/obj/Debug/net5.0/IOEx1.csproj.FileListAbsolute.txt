@@ -1,0 +1,16 @@
+D:\CsharpWorkspace\TraningPractice\IOEx1\bin\Debug\net5.0\IOEx1.exe
+D:\CsharpWorkspace\TraningPractice\IOEx1\bin\Debug\net5.0\IOEx1.deps.json
+D:\CsharpWorkspace\TraningPractice\IOEx1\bin\Debug\net5.0\IOEx1.runtimeconfig.json
+D:\CsharpWorkspace\TraningPractice\IOEx1\bin\Debug\net5.0\IOEx1.runtimeconfig.dev.json
+D:\CsharpWorkspace\TraningPractice\IOEx1\bin\Debug\net5.0\IOEx1.dll
+D:\CsharpWorkspace\TraningPractice\IOEx1\bin\Debug\net5.0\ref\IOEx1.dll
+D:\CsharpWorkspace\TraningPractice\IOEx1\bin\Debug\net5.0\IOEx1.pdb
+D:\CsharpWorkspace\TraningPractice\IOEx1\obj\Debug\net5.0\IOEx1.csproj.AssemblyReference.cache
+D:\CsharpWorkspace\TraningPractice\IOEx1\obj\Debug\net5.0\IOEx1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpWorkspace\TraningPractice\IOEx1\obj\Debug\net5.0\IOEx1.AssemblyInfoInputs.cache
+D:\CsharpWorkspace\TraningPractice\IOEx1\obj\Debug\net5.0\IOEx1.AssemblyInfo.cs
+D:\CsharpWorkspace\TraningPractice\IOEx1\obj\Debug\net5.0\IOEx1.csproj.CoreCompileInputs.cache
+D:\CsharpWorkspace\TraningPractice\IOEx1\obj\Debug\net5.0\IOEx1.dll
+D:\CsharpWorkspace\TraningPractice\IOEx1\obj\Debug\net5.0\ref\IOEx1.dll
+D:\CsharpWorkspace\TraningPractice\IOEx1\obj\Debug\net5.0\IOEx1.pdb
+D:\CsharpWorkspace\TraningPractice\IOEx1\obj\Debug\net5.0\IOEx1.genruntimeconfig.cache
